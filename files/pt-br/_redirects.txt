@@ -3,11 +3,11 @@
 /pt-BR/docs/AJAX/Getting_Started	/pt-BR/docs/Web/Guide/AJAX/Getting_Started
 /pt-BR/docs/API_Web_Audio	/pt-BR/docs/Web/API/API_Web_Audio
 /pt-BR/docs/Aplicativos	/pt-BR/docs/Apps
-/pt-BR/docs/Apps/Arquitetura%20de%20aplicativos	/pt-BR/docs/Apps/Apps_architecture
+/pt-BR/docs/Apps/Arquitetura de aplicativos	/pt-BR/docs/Apps/Apps_architecture
 /pt-BR/docs/Apps/Desenvolvimento_jogos	/pt-BR/docs/Apps/Desenvolvendo_jogos
-/pt-BR/docs/Apps/Plataforma-detalhes-espec%C3%ADficos	/pt-BR/docs/Apps/Platform-specific_details
+/pt-BR/docs/Apps/Plataforma-detalhes-específicos	/pt-BR/docs/Apps/Platform-specific_details
 /pt-BR/docs/Apps/Tutorials/General/Configurando_seu_ambiente_de_desenvolvimento	/pt-BR/docs/Apps/Tutorials/General/Configuring_your_development_environment
-/pt-BR/docs/Apps/Tutorials/Tutorial%20de%20desenvolvimento%20de%20aplicativos%20gerais(St%C3%A9ffano%20Heckler)	/pt-BR/docs/Apps/Tutorials/General
+/pt-BR/docs/Apps/Tutorials/Tutorial de desenvolvimento de aplicativos gerais(Stéffano Heckler)	/pt-BR/docs/Apps/Tutorials/General
 /pt-BR/docs/Apps/Utilizando_aplicativos_offline	/pt-BR/docs/Apps/Using_apps_offline
 /pt-BR/docs/Apps/disponibilizando_um_aplicativo	/pt-BR/docs/Apps/Submitting_an_app
 /pt-BR/docs/Aprender/CSS/Introduction_to_CSS	/en-US/docs/Learn/CSS/First_steps
@@ -24,22 +24,22 @@
 /pt-BR/docs/CSS/At-rule	/pt-BR/docs/Web/CSS/At-rule
 /pt-BR/docs/CSS/CSS_Reference	/pt-BR/docs/Web/CSS/CSS_Reference
 /pt-BR/docs/CSS/Escrever_folhas_de_estilo_eficientes	/pt-BR/docs/Web/CSS/Escrever_folhas_de_estilo_eficientes
-/pt-BR/docs/CSS/Especifica%C3%A7%C3%A3o	/pt-BR/docs/Web/CSS/Specificity
+/pt-BR/docs/CSS/Especificação	/pt-BR/docs/Web/CSS/Specificity
 /pt-BR/docs/CSS/Getting_Started	/pt-BR/docs/Web/CSS/Getting_Started
 /pt-BR/docs/CSS/Getting_Started/JavaScript	/pt-BR/docs/Web/CSS/Getting_Started/JavaScript
 /pt-BR/docs/CSS/Getting_Started/Oque_&eacute;_CSS	/pt-BR/docs/Web/CSS/Getting_Started/Oque_é_CSS
 /pt-BR/docs/CSS/Multiple_backgrounds	/pt-BR/docs/Web/CSS/CSS_Background_and_Borders/Using_CSS_multiple_backgrounds
 /pt-BR/docs/CSS/Primeiros_Passos	/pt-BR/docs/Web/CSS/Getting_Started
 /pt-BR/docs/CSS/Specificity	/pt-BR/docs/Web/CSS/Specificity
-/pt-BR/docs/CSS/Usando_animacoes_CSS	/pt-BR/docs/Web/CSS/CSS_Animations/Usando_anima%C3%A7%C3%B5es_CSS
-/pt-BR/docs/CSS/Using_CSS_animations	/pt-BR/docs/Web/CSS/CSS_Animations/Usando_anima%C3%A7%C3%B5es_CSS
+/pt-BR/docs/CSS/Usando_animacoes_CSS	/pt-BR/docs/Web/CSS/CSS_Animations/Usando_animações_CSS
+/pt-BR/docs/CSS/Using_CSS_animations	/pt-BR/docs/Web/CSS/CSS_Animations/Usando_animações_CSS
 /pt-BR/docs/CSS/Using_CSS_gradients	/pt-BR/docs/Web/CSS/Using_CSS_gradients
 /pt-BR/docs/CSS/Using_CSS_transforms	/pt-BR/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms
 /pt-BR/docs/CSS/Writing_Efficient_CSS	/pt-BR/docs/Web/CSS/Escrever_folhas_de_estilo_eficientes
 /pt-BR/docs/CSS/display	/pt-BR/docs/Web/CSS/display
 /pt-BR/docs/CSS/overflow	/pt-BR/docs/Web/CSS/overflow
 /pt-BR/docs/CSS/page-break-after	/pt-BR/docs/Web/CSS/page-break-after
-/pt-BR/docs/CSS/regra%20at	/pt-BR/docs/Web/CSS/At-rule
+/pt-BR/docs/CSS/regra at	/pt-BR/docs/Web/CSS/At-rule
 /pt-BR/docs/CSS/repeating-linear-gradient	/pt-BR/docs/Web/CSS/repeating-linear-gradient()
 /pt-BR/docs/CSS/sintaxe	/pt-BR/docs/Web/CSS/sintaxe
 /pt-BR/docs/CSS/text-overflow	/pt-BR/docs/Web/CSS/text-overflow
@@ -72,7 +72,7 @@
 /pt-BR/docs/Guia_do_Desenvolvedor	/pt-BR/docs/Mozilla/Developer_guide
 /pt-BR/docs/HTML	/pt-BR/docs/Web/HTML
 /pt-BR/docs/HTML/Canvas	/pt-BR/docs/Web/HTML/Canvas
-/pt-BR/docs/HTML/Dicas_para_criar_p%C3%A1ginas_HTML_de_carregamento_r%C3%A1pido	/pt-BR/docs/Web/HTML/Dicas_para_criar_p%C3%A1ginas_HTML_de_carregamento_r%C3%A1pido
+/pt-BR/docs/HTML/Dicas_para_criar_páginas_HTML_de_carregamento_rápido	/pt-BR/docs/Web/HTML/Dicas_para_criar_páginas_HTML_de_carregamento_rápido
 /pt-BR/docs/HTML/Element	/pt-BR/docs/Web/HTML/Element
 /pt-BR/docs/HTML/Element-redirect-1	/pt-BR/docs/Web/HTML/Element
 /pt-BR/docs/HTML/Element/Audio	/pt-BR/docs/Web/HTML/Element/Audio
@@ -114,12 +114,12 @@
 /pt-BR/docs/HTML/Element/summary	/pt-BR/docs/Web/HTML/Element/summary
 /pt-BR/docs/HTML/Element/table	/pt-BR/docs/Web/HTML/Element/table
 /pt-BR/docs/HTML/Element/wbr	/pt-BR/docs/Web/HTML/Element/wbr
-/pt-BR/docs/HTML/Elementos%20HTML	/pt-BR/docs/Web/HTML/Element
+/pt-BR/docs/HTML/Elementos HTML	/pt-BR/docs/Web/HTML/Element
 /pt-BR/docs/HTML/Formularios_em_HTML	/pt-BR/docs/HTML/Forms_in_HTML
 /pt-BR/docs/HTML/HTML5	/pt-BR/docs/Web/HTML/HTML5
 /pt-BR/docs/HTML/HTML5/HTML5_element_list	/pt-BR/docs/Web/HTML/Element
-/pt-BR/docs/HTML/HTML5/Introdu%C3%A7%C3%A3o_ao_HTML5	/pt-BR/docs/Web/HTML/HTML5/Introduction_to_HTML5
 /pt-BR/docs/HTML/HTML5/Introduction_to_HTML5	/pt-BR/docs/Web/HTML/HTML5/Introduction_to_HTML5
+/pt-BR/docs/HTML/HTML5/Introdução_ao_HTML5	/pt-BR/docs/Web/HTML/HTML5/Introduction_to_HTML5
 /pt-BR/docs/HTML/HTML_Elements	/pt-BR/docs/Web/HTML/Element
 /pt-BR/docs/HTML/HTML_Elements/time	/pt-BR/docs/Web/HTML/Element/time
 /pt-BR/docs/HTML/Introducao	/pt-BR/docs/Aprender/HTML/Introducao_ao_HTML
@@ -139,13 +139,13 @@
 /pt-BR/docs/JavaScript/Guide/Closures	/pt-BR/docs/Web/JavaScript/Guide/Closures
 /pt-BR/docs/JavaScript/Guide/Detalhes_do_Modelo_do_Objeto	/pt-BR/docs/Web/JavaScript/Guide/Detalhes_do_Modelo_do_Objeto
 /pt-BR/docs/JavaScript/Guide/Expressions_and_Operators	/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_Operators
-/pt-BR/docs/JavaScript/Guide/Heran%C3%A7a_Revisitada	/pt-BR/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain
+/pt-BR/docs/JavaScript/Guide/Herança_Revisitada	/pt-BR/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain
 /pt-BR/docs/JavaScript/Guide/Igualdade	/pt-BR/docs/Web/JavaScript/Guide/Igualdade
 /pt-BR/docs/JavaScript/Guide/Inheritance_Revisited	/pt-BR/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain
-/pt-BR/docs/JavaScript/Guide/JavaScript_Vis%C3%A3o_Geral	/pt-BR/docs/Web/JavaScript/Guide/Introduction
+/pt-BR/docs/JavaScript/Guide/JavaScript_Visão_Geral	/pt-BR/docs/Web/JavaScript/Guide/Introduction
 /pt-BR/docs/JavaScript/Guide/Regular_Expressions	/pt-BR/docs/Web/JavaScript/Guide/Regular_Expressions
 /pt-BR/docs/JavaScript/Guide/Trabalhando_com_Objetos	/pt-BR/docs/Web/JavaScript/Guide/Trabalhando_com_Objetos
-/pt-BR/docs/JavaScript/Guide/Valores,_vari%C3%A1veis_e_literais	/pt-BR/docs/Web/JavaScript/Guide/Values,_variables,_and_literals
+/pt-BR/docs/JavaScript/Guide/Valores,_variáveis_e_literais	/pt-BR/docs/Web/JavaScript/Guide/Values,_variables,_and_literals
 /pt-BR/docs/JavaScript/Guide/Values,_variables,_and_literals	/pt-BR/docs/Web/JavaScript/Guide/Values,_variables,_and_literals
 /pt-BR/docs/JavaScript/Introduction_to_Object-Oriented_JavaScript	/pt-BR/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
 /pt-BR/docs/JavaScript/JavaScript_technologies_overview	/pt-BR/docs/Web/JavaScript/JavaScript_technologies_overview
@@ -192,7 +192,7 @@
 /pt-BR/docs/MDN/Contribute/Tools/Page_regeneration	/pt-BR/docs/MDN/Tools/Page_regeneration
 /pt-BR/docs/MDN/Feedback	/pt-BR/docs/MDN/Contribute/Feedback
 /pt-BR/docs/MDN/Primeiros_Passos	/pt-BR/docs/MDN/Contribute/Getting_started
-/pt-BR/docs/MDN/guia_usu%C3%A1rio	/pt-BR/docs/MDN/Tools
+/pt-BR/docs/MDN/guia_usuário	/pt-BR/docs/MDN/Tools
 /pt-BR/docs/Mozilla/Developer_guide/Introducao	/pt-BR/docs/Mozilla/Developer_guide/Introduction
 /pt-BR/docs/Online_and_offline_events	/pt-BR/docs/Web/API/NavigatorOnLine/Online_and_offline_events
 /pt-BR/docs/Projeto:Como_ajudar_com_MDN-redirect-1	/pt-BR/docs/Projeto:Como_ajudar_com_MDN
@@ -203,12 +203,12 @@
 /pt-BR/docs/SVG/Element/desc	/pt-BR/docs/Web/SVG/Element/desc
 /pt-BR/docs/SVG/Element/svg	/pt-BR/docs/Web/SVG/Element/svg
 /pt-BR/docs/SVG/Element/texto	/pt-BR/docs/Web/SVG/Element/text
-/pt-BR/docs/Se%C3%A7%C3%B5es_e_estrutura_HTML5	/pt-BR/docs/Sections_and_Outlines_of_an_HTML5_document
 /pt-BR/docs/Security/CSP/Utilizando_Politicas_De_Seguranca_De_Conteudo	/pt-BR/docs/Web/HTTP/CSP
+/pt-BR/docs/Seções_e_estrutura_HTML5	/pt-BR/docs/Sections_and_Outlines_of_an_HTML5_document
 /pt-BR/docs/Simples_Thunderbird_build	/pt-BR/docs/Mozilla/Developer_guide/Intrucoes_Build/Simples_Thunderbird_build
 /pt-BR/docs/Using_HTML5_audio_and_video	/pt-BR/docs/Web/HTML/Using_HTML5_audio_and_video
 /pt-BR/docs/Using_files_from_web_applications	/pt-BR/docs/Web/API/File/Using_files_from_web_applications
-/pt-BR/docs/Utilizando_%C3%A1udio_e_v%C3%ADdeo_com_HTML5	/pt-BR/docs/Web/HTML/Using_HTML5_audio_and_video
+/pt-BR/docs/Utilizando_áudio_e_vídeo_com_HTML5	/pt-BR/docs/Web/HTML/Using_HTML5_audio_and_video
 /pt-BR/docs/Web/API/ArrayBuffer	/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer
 /pt-BR/docs/Web/API/BatteryManager.charging	/pt-BR/docs/Web/API/BatteryManager/charging
 /pt-BR/docs/Web/API/BatteryManager.chargingTime	/pt-BR/docs/Web/API/BatteryManager/chargingTime
@@ -259,7 +259,7 @@
 /pt-BR/docs/Web/API/document.writeln	/pt-BR/docs/Web/API/Document/writeln
 /pt-BR/docs/Web/API/event.type	/pt-BR/docs/Web/API/Event/type
 /pt-BR/docs/Web/Apps/Progressive	/pt-BR/docs/Web/Progressive_web_apps
-/pt-BR/docs/Web/Apps/Progressive/Introdu%C3%A7%C3%A3o	/pt-BR/docs/Web/Progressive_web_apps/Introdu%C3%A7%C3%A3o
+/pt-BR/docs/Web/Apps/Progressive/Introdução	/pt-BR/docs/Web/Progressive_web_apps/Introdução
 /pt-BR/docs/Web/CSS/CSS_Colors	/pt-BR/docs/Web/CSS/CSS_Color
 /pt-BR/docs/Web/CSS/CSS_Reference/mix-blend-mode	/pt-BR/docs/Web/CSS/mix-blend-mode
 /pt-BR/docs/Web/CSS/Child_selectors	/pt-BR/docs/Web/CSS/Child_combinator
@@ -273,7 +273,7 @@
 /pt-BR/docs/Web/CSS/filter-function/opacity	/pt-BR/docs/Web/CSS/filter-function/opacity()
 /pt-BR/docs/Web/CSS/filter-function/sepia	/pt-BR/docs/Web/CSS/filter-function/sepia()
 /pt-BR/docs/Web/CSS/image-set	/pt-BR/docs/Web/CSS/image-set()
-/pt-BR/docs/Web/CSS/m%C3%A1scara	/pt-BR/docs/mask
+/pt-BR/docs/Web/CSS/máscara	/pt-BR/docs/mask
 /pt-BR/docs/Web/CSS/radial-gradient	/pt-BR/docs/Web/CSS/radial-gradient()
 /pt-BR/docs/Web/CSS/repeating-linear-gradient	/pt-BR/docs/Web/CSS/repeating-linear-gradient()
 /pt-BR/docs/Web/CSS/transform-function/matrix	/pt-BR/docs/Web/CSS/transform-function/matrix()
@@ -296,14 +296,14 @@
 /pt-BR/docs/Web/Events/touchstart	/pt-BR/docs/Web/API/Element/touchstart_event
 /pt-BR/docs/Web/Guide/CSS	/pt-BR/docs/Learn/CSS
 /pt-BR/docs/Web/Guide/HTML	/pt-BR/docs/Learn/HTML
-/pt-BR/docs/Web/HTML/Element/%3Cb%3E	/pt-BR/docs/Web/HTML/Element/b
+/pt-BR/docs/Web/HTML/Element/<b>	/pt-BR/docs/Web/HTML/Element/b
 /pt-BR/docs/Web/HTML/Elementos_nlock-level	/pt-BR/docs/Web/HTML/Elementos_block-level
 /pt-BR/docs/Web/HTML/HTML5/HTML5_element_list	/pt-BR/docs/Web/HTML/Element
 /pt-BR/docs/Web/HTTP/Cabecalhos_HTTP	/pt-BR/docs/Web/HTTP/Headers
 /pt-BR/docs/Web/HTTP/Headers/Expira	/pt-BR/docs/Web/HTTP/Headers/Expires
 /pt-BR/docs/Web/JavaScript/Guide/About	/pt-BR/docs/Web/JavaScript/Guide/Introduction
 /pt-BR/docs/Web/JavaScript/Guide/Inheritance_Revisited	/pt-BR/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain
-/pt-BR/docs/Web/JavaScript/Guide/JavaScript_Vis%C3%A3o_Geral	/pt-BR/docs/Web/JavaScript/Guide/Introduction
+/pt-BR/docs/Web/JavaScript/Guide/JavaScript_Visão_Geral	/pt-BR/docs/Web/JavaScript/Guide/Introduction
 /pt-BR/docs/Web/JavaScript/Outras_ferramentas_JavaScript	/pt-BR/docs/Tools
 /pt-BR/docs/Web/JavaScript/Reference/Global_Objects/NumberFormat	/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat
 /pt-BR/docs/Web/JavaScript/Reference/Global_Objects/NumberFormat/prototype	/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat/prototype
