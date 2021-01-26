@@ -1,2 +1,12 @@
 # FROM-URL	TO-URL
 /sv-SE/docs/MDN/Getting_started	/sv-SE/docs/MDN/Contribute/Getting_started
+/sv-se/docs/Glossary/IP_Adress	/sv-se/docs/Glossary/IP_Address
+/sv-se/docs/MDN/Community	/sv-se/docs/orphaned/MDN/Community
+/sv-se/docs/MDN/Contribute/Howto/Create_an_MDN_account	/sv-se/docs/orphaned/MDN/Contribute/Howto/Create_an_MDN_account
+/sv-se/docs/Tools/Prestanda	/sv-se/docs/Tools/Performance
+/sv-se/docs/Web/API/KryptoNyckel	/sv-se/docs/Web/API/CryptoKey
+/sv-se/docs/Web/API/KryptoNyckel/typ	/sv-se/docs/conflicting/Web/API/CryptoKey
+/sv-se/docs/Web/API/SubtleCrypto/genereraNyckel	/sv-se/docs/Web/API/SubtleCrypto/generateKey
+/sv-se/docs/Web/API/SubtleCrypto/signum	/sv-se/docs/Web/API/SubtleCrypto/sign
+/sv-se/docs/Web/HTML/Global_attributes/Kortplats	/sv-se/docs/Web/HTML/Global_attributes/slot
+/sv-se/docs/Web/Security/Osäkra_lösenord	/sv-se/docs/Web/Security/Insecure_passwords
