@@ -1,3 +1,11 @@
 # FROM-URL	TO-URL
 /hi-IN/docs/MDN/Feedback	/hi-IN/docs/MDN/Contribute/Feedback
 /hi-IN/docs/MDN/Getting_started	/hi-IN/docs/MDN/Contribute/Getting_started
+/hi-in/docs/Glossary/इंटरनेट	/hi-in/docs/Glossary/Internet
+/hi-in/docs/Glossary/डेटा_संरचना	/hi-in/docs/Glossary/Data_structure
+/hi-in/docs/Glossary/लोकल	/hi-in/docs/Glossary/Locale
+/hi-in/docs/MDN/Community	/hi-in/docs/orphaned/MDN/Community
+/hi-in/docs/MDN/Contribute/Howto/Do_a_technical_review	/hi-in/docs/orphaned/MDN/Contribute/Howto/Do_a_technical_review
+/hi-in/docs/Web/JavaScript/Reference/Operators/ऑपरेटर_प्राथमिकता	/hi-in/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
+/hi-in/docs/Web/JavaScript/टाईप्ड_सरणियाँ	/hi-in/docs/Web/JavaScript/Typed_arrays
+/hi-in/docs/Web/Localization	/hi-in/docs/orphaned/Web/Localization
