@@ -1,0 +1,23 @@
+# FROM-URL	TO-URL
+/bg/docs/Learn/Да_започнем_с_Мрежата	/bg/docs/Learn/Getting_started_with_the_web
+/bg/docs/Learn/Да_започнем_с_Мрежата/Инсталиране_на_основния_софтуер	/bg/docs/Learn/Getting_started_with_the_web/Installing_basic_software
+/bg/docs/Learn/Да_започнем_с_Мрежата/Основи_на_HTML	/bg/docs/Learn/Getting_started_with_the_web/HTML_basics
+/bg/docs/MDN/Getting_started	/bg/docs/MDN/Contribute/Getting_started
+/bg/docs/Web/Guide/Графики	/bg/docs/Web/Guide/Graphics
+/bg/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators	/bg/docs/conflicting/Web/JavaScript/Reference/Operators
+/bg/docs/Web/JavaScript/Reference/Operators/разпределящ_синтаксис	/bg/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+/bg/docs/Web/SVG/Ръководство	/bg/docs/Web/SVG/Tutorial
+/bg/docs/Речник	/bg/docs/Glossary
+/bg/docs/Речник/404	/bg/docs/Glossary/404
+/bg/docs/Речник/Browser	/bg/docs/Glossary/Browser
+/bg/docs/Речник/CSS	/bg/docs/Glossary/CSS
+/bg/docs/Речник/ECMA	/bg/docs/Glossary/ECMA
+/bg/docs/Речник/HTML	/bg/docs/Glossary/HTML
+/bg/docs/Речник/HTTP	/bg/docs/Glossary/HTTP
+/bg/docs/Речник/Hypertext	/bg/docs/Glossary/Hypertext
+/bg/docs/Речник/Internet	/bg/docs/Glossary/Internet
+/bg/docs/Речник/JSON	/bg/docs/Glossary/JSON
+/bg/docs/Речник/JavaScript	/bg/docs/Glossary/JavaScript
+/bg/docs/Речник/Server	/bg/docs/Glossary/Server
+/bg/docs/Речник/World_Wide_Web	/bg/docs/Glossary/World_Wide_Web
+/bg/docs/Речник/array	/bg/docs/Glossary/array
