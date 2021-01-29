@@ -42,16 +42,16 @@ List of _old link to document on production MDN_
 
 ### Orphaned
 
-* [/hi-IN/docs/MDN/Community](https://developer.mozilla.org/hi-IN/docs/MDN/Community) → [/hi-IN/docs/orphaned/MDN/Community](/hi-IN/docs/orphaned/MDN/Community)
-* [/hi-IN/docs/MDN/Contribute/Howto/Do_a_technical_review](https://developer.mozilla.org/hi-IN/docs/MDN/Contribute/Howto/Do_a_technical_review) → [/hi-IN/docs/orphaned/MDN/Contribute/Howto/Do_a_technical_review](/hi-IN/docs/orphaned/MDN/Contribute/Howto/Do_a_technical_review)
-* [/hi-IN/docs/Web/Localization](https://developer.mozilla.org/hi-IN/docs/Web/Localization) → [/hi-IN/docs/orphaned/Web/Localization](/hi-IN/docs/orphaned/Web/Localization)
+* [/hi-IN/docs/MDN/Community](https://developer.mozilla.org/hi-IN/docs/MDN/Community) → [/hi-IN/docs/orphaned/MDN/Community](https://unslug-next.content.dev.mdn.mozit.cloud/hi-IN/docs/orphaned/MDN/Community)
+* [/hi-IN/docs/MDN/Contribute/Howto/Do_a_technical_review](https://developer.mozilla.org/hi-IN/docs/MDN/Contribute/Howto/Do_a_technical_review) → [/hi-IN/docs/orphaned/MDN/Contribute/Howto/Do_a_technical_review](https://unslug-next.content.dev.mdn.mozit.cloud/hi-IN/docs/orphaned/MDN/Contribute/Howto/Do_a_technical_review)
+* [/hi-IN/docs/Web/Localization](https://developer.mozilla.org/hi-IN/docs/Web/Localization) → [/hi-IN/docs/orphaned/Web/Localization](https://unslug-next.content.dev.mdn.mozit.cloud/hi-IN/docs/orphaned/Web/Localization)
 
 ### Conflicting
 
 
 ### Renamed
-* [/hi-IN/docs/Glossary/इंटरनेट](https://developer.mozilla.org/hi-IN/docs/Glossary/इंटरनेट) → [/hi-IN/docs/Glossary/Internet](/hi-IN/docs/Glossary/Internet)
-* [/hi-IN/docs/Glossary/डेटा_संरचना](https://developer.mozilla.org/hi-IN/docs/Glossary/डेटा_संरचना) → [/hi-IN/docs/Glossary/Data_structure](/hi-IN/docs/Glossary/Data_structure)
-* [/hi-IN/docs/Glossary/लोकल](https://developer.mozilla.org/hi-IN/docs/Glossary/लोकल) → [/hi-IN/docs/Glossary/Locale](/hi-IN/docs/Glossary/Locale)
-* [/hi-IN/docs/Web/JavaScript/Reference/Operators/ऑपरेटर_प्राथमिकता](https://developer.mozilla.org/hi-IN/docs/Web/JavaScript/Reference/Operators/ऑपरेटर_प्राथमिकता) → [/hi-IN/docs/Web/JavaScript/Reference/Operators/Operator_Precedence](/hi-IN/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
-* [/hi-IN/docs/Web/JavaScript/टाईप्ड_सरणियाँ](https://developer.mozilla.org/hi-IN/docs/Web/JavaScript/टाईप्ड_सरणियाँ) → [/hi-IN/docs/Web/JavaScript/Typed_arrays](/hi-IN/docs/Web/JavaScript/Typed_arrays)
+* [/hi-IN/docs/Glossary/इंटरनेट](https://developer.mozilla.org/hi-IN/docs/Glossary/इंटरनेट) → [/hi-IN/docs/Glossary/Internet](https://unslug-next.content.dev.mdn.mozit.cloud/hi-IN/docs/Glossary/Internet)
+* [/hi-IN/docs/Glossary/डेटा_संरचना](https://developer.mozilla.org/hi-IN/docs/Glossary/डेटा_संरचना) → [/hi-IN/docs/Glossary/Data_structure](https://unslug-next.content.dev.mdn.mozit.cloud/hi-IN/docs/Glossary/Data_structure)
+* [/hi-IN/docs/Glossary/लोकल](https://developer.mozilla.org/hi-IN/docs/Glossary/लोकल) → [/hi-IN/docs/Glossary/Locale](https://unslug-next.content.dev.mdn.mozit.cloud/hi-IN/docs/Glossary/Locale)
+* [/hi-IN/docs/Web/JavaScript/Reference/Operators/ऑपरेटर_प्राथमिकता](https://developer.mozilla.org/hi-IN/docs/Web/JavaScript/Reference/Operators/ऑपरेटर_प्राथमिकता) → [/hi-IN/docs/Web/JavaScript/Reference/Operators/Operator_Precedence](https://unslug-next.content.dev.mdn.mozit.cloud/hi-IN/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+* [/hi-IN/docs/Web/JavaScript/टाईप्ड_सरणियाँ](https://developer.mozilla.org/hi-IN/docs/Web/JavaScript/टाईप्ड_सरणियाँ) → [/hi-IN/docs/Web/JavaScript/Typed_arrays](https://unslug-next.content.dev.mdn.mozit.cloud/hi-IN/docs/Web/JavaScript/Typed_arrays)

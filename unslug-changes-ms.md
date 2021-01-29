@@ -42,23 +42,23 @@ List of _old link to document on production MDN_
 
 ### Orphaned
 
-* [/ms/docs/MDN/Community](https://developer.mozilla.org/ms/docs/MDN/Community) → [/ms/docs/orphaned/MDN/Community](/ms/docs/orphaned/MDN/Community)
-* [/ms/docs/MDN/Contribute/Howto/Bagaimana_membuat_akaun_MDN](https://developer.mozilla.org/ms/docs/MDN/Contribute/Howto/Bagaimana_membuat_akaun_MDN) → [/ms/docs/orphaned/MDN/Contribute/Howto/Create_an_MDN_account](/ms/docs/orphaned/MDN/Contribute/Howto/Create_an_MDN_account)
+* [/ms/docs/MDN/Community](https://developer.mozilla.org/ms/docs/MDN/Community) → [/ms/docs/orphaned/MDN/Community](https://unslug-next.content.dev.mdn.mozit.cloud/ms/docs/orphaned/MDN/Community)
+* [/ms/docs/MDN/Contribute/Howto/Bagaimana_membuat_akaun_MDN](https://developer.mozilla.org/ms/docs/MDN/Contribute/Howto/Bagaimana_membuat_akaun_MDN) → [/ms/docs/orphaned/MDN/Contribute/Howto/Create_an_MDN_account](https://unslug-next.content.dev.mdn.mozit.cloud/ms/docs/orphaned/MDN/Contribute/Howto/Create_an_MDN_account)
 
 ### Conflicting
 
 
 ### Renamed
-* [/ms/docs/HTML/Canvas](https://developer.mozilla.org/ms/docs/HTML/Canvas) → [/ms/docs/Web/API/Canvas_API](/ms/docs/Web/API/Canvas_API)
-* [/ms/docs/HTML/Elemen](https://developer.mozilla.org/ms/docs/HTML/Elemen) → [/ms/docs/Web/HTML/Element](/ms/docs/Web/HTML/Element)
-* [/ms/docs/HTML/Tip_menulis_LamanHTML_dengan_pemuatan_pantas](https://developer.mozilla.org/ms/docs/HTML/Tip_menulis_LamanHTML_dengan_pemuatan_pantas) → [/ms/docs/Learn/HTML/Howto/Author_fast-loading_HTML_pages](/ms/docs/Learn/HTML/Howto/Author_fast-loading_HTML_pages)
-* [/ms/docs/Learn/HTML/Forms](https://developer.mozilla.org/ms/docs/Learn/HTML/Forms) → [/ms/docs/Learn/Forms](/ms/docs/Learn/Forms)
-* [/ms/docs/Learn/HTML/Howto/Add_responsive_image_to_a_webpage](https://developer.mozilla.org/ms/docs/Learn/HTML/Howto/Add_responsive_image_to_a_webpage) → [/ms/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images](/ms/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
-* [/ms/docs/Learn/Memulakan_pembelajaran_web/Berurusan_dengan_fail](https://developer.mozilla.org/ms/docs/Learn/Memulakan_pembelajaran_web/Berurusan_dengan_fail) → [/ms/docs/Learn/Getting_started_with_the_web/Dealing_with_files](/ms/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
-* [/ms/docs/Learn/Memulakan_pembelajaran_web](https://developer.mozilla.org/ms/docs/Learn/Memulakan_pembelajaran_web) → [/ms/docs/Learn/Getting_started_with_the_web](/ms/docs/Learn/Getting_started_with_the_web)
-* [/ms/docs/Learn/Memulakan_pembelajaran_web/Memasang_Perisian_Asas](https://developer.mozilla.org/ms/docs/Learn/Memulakan_pembelajaran_web/Memasang_Perisian_Asas) → [/ms/docs/Learn/Getting_started_with_the_web/Installing_basic_software](/ms/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
-* [/ms/docs/Learn/Soalan_lazim](https://developer.mozilla.org/ms/docs/Learn/Soalan_lazim) → [/ms/docs/Learn/Common_questions](/ms/docs/Learn/Common_questions)
-* [/ms/docs/MDN_at_ten](https://developer.mozilla.org/ms/docs/MDN_at_ten) → [/ms/docs/MDN/At_ten](/ms/docs/MDN/At_ten)
-* [/ms/docs/HTML/Canvas/Melukis_Grafik_dengan_Canvas](https://developer.mozilla.org/ms/docs/HTML/Canvas/Melukis_Grafik_dengan_Canvas) → [/ms/docs/Web/API/Canvas_API/Tutorial](/ms/docs/Web/API/Canvas_API/Tutorial)
-* [/ms/docs/HTML](https://developer.mozilla.org/ms/docs/HTML) → [/ms/docs/Web/HTML](/ms/docs/Web/HTML)
-* [/ms/docs/Web_Development](https://developer.mozilla.org/ms/docs/Web_Development) → [/ms/docs/Web/Guide](/ms/docs/Web/Guide)
+* [/ms/docs/HTML/Canvas](https://developer.mozilla.org/ms/docs/HTML/Canvas) → [/ms/docs/Web/API/Canvas_API](https://unslug-next.content.dev.mdn.mozit.cloud/ms/docs/Web/API/Canvas_API)
+* [/ms/docs/HTML/Elemen](https://developer.mozilla.org/ms/docs/HTML/Elemen) → [/ms/docs/Web/HTML/Element](https://unslug-next.content.dev.mdn.mozit.cloud/ms/docs/Web/HTML/Element)
+* [/ms/docs/HTML/Tip_menulis_LamanHTML_dengan_pemuatan_pantas](https://developer.mozilla.org/ms/docs/HTML/Tip_menulis_LamanHTML_dengan_pemuatan_pantas) → [/ms/docs/Learn/HTML/Howto/Author_fast-loading_HTML_pages](https://unslug-next.content.dev.mdn.mozit.cloud/ms/docs/Learn/HTML/Howto/Author_fast-loading_HTML_pages)
+* [/ms/docs/Learn/HTML/Forms](https://developer.mozilla.org/ms/docs/Learn/HTML/Forms) → [/ms/docs/Learn/Forms](https://unslug-next.content.dev.mdn.mozit.cloud/ms/docs/Learn/Forms)
+* [/ms/docs/Learn/HTML/Howto/Add_responsive_image_to_a_webpage](https://developer.mozilla.org/ms/docs/Learn/HTML/Howto/Add_responsive_image_to_a_webpage) → [/ms/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images](https://unslug-next.content.dev.mdn.mozit.cloud/ms/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+* [/ms/docs/Learn/Memulakan_pembelajaran_web/Berurusan_dengan_fail](https://developer.mozilla.org/ms/docs/Learn/Memulakan_pembelajaran_web/Berurusan_dengan_fail) → [/ms/docs/Learn/Getting_started_with_the_web/Dealing_with_files](https://unslug-next.content.dev.mdn.mozit.cloud/ms/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+* [/ms/docs/Learn/Memulakan_pembelajaran_web](https://developer.mozilla.org/ms/docs/Learn/Memulakan_pembelajaran_web) → [/ms/docs/Learn/Getting_started_with_the_web](https://unslug-next.content.dev.mdn.mozit.cloud/ms/docs/Learn/Getting_started_with_the_web)
+* [/ms/docs/Learn/Memulakan_pembelajaran_web/Memasang_Perisian_Asas](https://developer.mozilla.org/ms/docs/Learn/Memulakan_pembelajaran_web/Memasang_Perisian_Asas) → [/ms/docs/Learn/Getting_started_with_the_web/Installing_basic_software](https://unslug-next.content.dev.mdn.mozit.cloud/ms/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
+* [/ms/docs/Learn/Soalan_lazim](https://developer.mozilla.org/ms/docs/Learn/Soalan_lazim) → [/ms/docs/Learn/Common_questions](https://unslug-next.content.dev.mdn.mozit.cloud/ms/docs/Learn/Common_questions)
+* [/ms/docs/MDN_at_ten](https://developer.mozilla.org/ms/docs/MDN_at_ten) → [/ms/docs/MDN/At_ten](https://unslug-next.content.dev.mdn.mozit.cloud/ms/docs/MDN/At_ten)
+* [/ms/docs/HTML/Canvas/Melukis_Grafik_dengan_Canvas](https://developer.mozilla.org/ms/docs/HTML/Canvas/Melukis_Grafik_dengan_Canvas) → [/ms/docs/Web/API/Canvas_API/Tutorial](https://unslug-next.content.dev.mdn.mozit.cloud/ms/docs/Web/API/Canvas_API/Tutorial)
+* [/ms/docs/HTML](https://developer.mozilla.org/ms/docs/HTML) → [/ms/docs/Web/HTML](https://unslug-next.content.dev.mdn.mozit.cloud/ms/docs/Web/HTML)
+* [/ms/docs/Web_Development](https://developer.mozilla.org/ms/docs/Web_Development) → [/ms/docs/Web/Guide](https://unslug-next.content.dev.mdn.mozit.cloud/ms/docs/Web/Guide)

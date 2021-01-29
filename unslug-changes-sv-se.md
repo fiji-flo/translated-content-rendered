@@ -42,17 +42,17 @@ List of _old link to document on production MDN_
 
 ### Orphaned
 
-* [/sv-SE/docs/MDN/Community](https://developer.mozilla.org/sv-SE/docs/MDN/Community) → [/sv-SE/docs/orphaned/MDN/Community](/sv-SE/docs/orphaned/MDN/Community)
-* [/sv-SE/docs/MDN/Contribute/Howto/Create_an_MDN_account](https://developer.mozilla.org/sv-SE/docs/MDN/Contribute/Howto/Create_an_MDN_account) → [/sv-SE/docs/orphaned/MDN/Contribute/Howto/Create_an_MDN_account](/sv-SE/docs/orphaned/MDN/Contribute/Howto/Create_an_MDN_account)
+* [/sv-SE/docs/MDN/Community](https://developer.mozilla.org/sv-SE/docs/MDN/Community) → [/sv-SE/docs/orphaned/MDN/Community](https://unslug-next.content.dev.mdn.mozit.cloud/sv-SE/docs/orphaned/MDN/Community)
+* [/sv-SE/docs/MDN/Contribute/Howto/Create_an_MDN_account](https://developer.mozilla.org/sv-SE/docs/MDN/Contribute/Howto/Create_an_MDN_account) → [/sv-SE/docs/orphaned/MDN/Contribute/Howto/Create_an_MDN_account](https://unslug-next.content.dev.mdn.mozit.cloud/sv-SE/docs/orphaned/MDN/Contribute/Howto/Create_an_MDN_account)
 
 ### Conflicting
-* [/sv-SE/docs/Web/API/KryptoNyckel/typ](https://developer.mozilla.org/sv-SE/docs/Web/API/KryptoNyckel/typ) → [/sv-SE/docs/conflicting/Web/API/CryptoKey](/sv-SE/docs/conflicting/Web/API/CryptoKey)
+* [/sv-SE/docs/Web/API/KryptoNyckel/typ](https://developer.mozilla.org/sv-SE/docs/Web/API/KryptoNyckel/typ) → [/sv-SE/docs/conflicting/Web/API/CryptoKey](https://unslug-next.content.dev.mdn.mozit.cloud/sv-SE/docs/conflicting/Web/API/CryptoKey)
 
 ### Renamed
-* [/sv-SE/docs/Glossary/IP_Adress](https://developer.mozilla.org/sv-SE/docs/Glossary/IP_Adress) → [/sv-SE/docs/Glossary/IP_Address](/sv-SE/docs/Glossary/IP_Address)
-* [/sv-SE/docs/Tools/Prestanda](https://developer.mozilla.org/sv-SE/docs/Tools/Prestanda) → [/sv-SE/docs/Tools/Performance](/sv-SE/docs/Tools/Performance)
-* [/sv-SE/docs/Web/API/KryptoNyckel](https://developer.mozilla.org/sv-SE/docs/Web/API/KryptoNyckel) → [/sv-SE/docs/Web/API/CryptoKey](/sv-SE/docs/Web/API/CryptoKey)
-* [/sv-SE/docs/Web/API/SubtleCrypto/genereraNyckel](https://developer.mozilla.org/sv-SE/docs/Web/API/SubtleCrypto/genereraNyckel) → [/sv-SE/docs/Web/API/SubtleCrypto/generateKey](/sv-SE/docs/Web/API/SubtleCrypto/generateKey)
-* [/sv-SE/docs/Web/API/SubtleCrypto/signum](https://developer.mozilla.org/sv-SE/docs/Web/API/SubtleCrypto/signum) → [/sv-SE/docs/Web/API/SubtleCrypto/sign](/sv-SE/docs/Web/API/SubtleCrypto/sign)
-* [/sv-SE/docs/Web/HTML/Global_attributes/Kortplats](https://developer.mozilla.org/sv-SE/docs/Web/HTML/Global_attributes/Kortplats) → [/sv-SE/docs/Web/HTML/Global_attributes/slot](/sv-SE/docs/Web/HTML/Global_attributes/slot)
-* [/sv-SE/docs/Web/Security/Osäkra_lösenord](https://developer.mozilla.org/sv-SE/docs/Web/Security/Osäkra_lösenord) → [/sv-SE/docs/Web/Security/Insecure_passwords](/sv-SE/docs/Web/Security/Insecure_passwords)
+* [/sv-SE/docs/Glossary/IP_Adress](https://developer.mozilla.org/sv-SE/docs/Glossary/IP_Adress) → [/sv-SE/docs/Glossary/IP_Address](https://unslug-next.content.dev.mdn.mozit.cloud/sv-SE/docs/Glossary/IP_Address)
+* [/sv-SE/docs/Tools/Prestanda](https://developer.mozilla.org/sv-SE/docs/Tools/Prestanda) → [/sv-SE/docs/Tools/Performance](https://unslug-next.content.dev.mdn.mozit.cloud/sv-SE/docs/Tools/Performance)
+* [/sv-SE/docs/Web/API/KryptoNyckel](https://developer.mozilla.org/sv-SE/docs/Web/API/KryptoNyckel) → [/sv-SE/docs/Web/API/CryptoKey](https://unslug-next.content.dev.mdn.mozit.cloud/sv-SE/docs/Web/API/CryptoKey)
+* [/sv-SE/docs/Web/API/SubtleCrypto/genereraNyckel](https://developer.mozilla.org/sv-SE/docs/Web/API/SubtleCrypto/genereraNyckel) → [/sv-SE/docs/Web/API/SubtleCrypto/generateKey](https://unslug-next.content.dev.mdn.mozit.cloud/sv-SE/docs/Web/API/SubtleCrypto/generateKey)
+* [/sv-SE/docs/Web/API/SubtleCrypto/signum](https://developer.mozilla.org/sv-SE/docs/Web/API/SubtleCrypto/signum) → [/sv-SE/docs/Web/API/SubtleCrypto/sign](https://unslug-next.content.dev.mdn.mozit.cloud/sv-SE/docs/Web/API/SubtleCrypto/sign)
+* [/sv-SE/docs/Web/HTML/Global_attributes/Kortplats](https://developer.mozilla.org/sv-SE/docs/Web/HTML/Global_attributes/Kortplats) → [/sv-SE/docs/Web/HTML/Global_attributes/slot](https://unslug-next.content.dev.mdn.mozit.cloud/sv-SE/docs/Web/HTML/Global_attributes/slot)
+* [/sv-SE/docs/Web/Security/Osäkra_lösenord](https://developer.mozilla.org/sv-SE/docs/Web/Security/Osäkra_lösenord) → [/sv-SE/docs/Web/Security/Insecure_passwords](https://unslug-next.content.dev.mdn.mozit.cloud/sv-SE/docs/Web/Security/Insecure_passwords)

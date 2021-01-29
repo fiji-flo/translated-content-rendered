@@ -48,6 +48,6 @@ List of _old link to document on production MDN_
 
 
 ### Renamed
-* [/my/docs/Learn/HTML/Forms/HTML5_input_types](https://developer.mozilla.org/my/docs/Learn/HTML/Forms/HTML5_input_types) → [/my/docs/Learn/Forms/HTML5_input_types](/my/docs/Learn/Forms/HTML5_input_types)
-* [/my/docs/Learn/HTML/Forms](https://developer.mozilla.org/my/docs/Learn/HTML/Forms) → [/my/docs/Learn/Forms](/my/docs/Learn/Forms)
-* [/my/docs/Learn/HTML/Forms/Your_first_form](https://developer.mozilla.org/my/docs/Learn/HTML/Forms/Your_first_form) → [/my/docs/Learn/Forms/Your_first_form](/my/docs/Learn/Forms/Your_first_form)
+* [/my/docs/Learn/HTML/Forms/HTML5_input_types](https://developer.mozilla.org/my/docs/Learn/HTML/Forms/HTML5_input_types) → [/my/docs/Learn/Forms/HTML5_input_types](https://unslug-next.content.dev.mdn.mozit.cloud/my/docs/Learn/Forms/HTML5_input_types)
+* [/my/docs/Learn/HTML/Forms](https://developer.mozilla.org/my/docs/Learn/HTML/Forms) → [/my/docs/Learn/Forms](https://unslug-next.content.dev.mdn.mozit.cloud/my/docs/Learn/Forms)
+* [/my/docs/Learn/HTML/Forms/Your_first_form](https://developer.mozilla.org/my/docs/Learn/HTML/Forms/Your_first_form) → [/my/docs/Learn/Forms/Your_first_form](https://unslug-next.content.dev.mdn.mozit.cloud/my/docs/Learn/Forms/Your_first_form)
